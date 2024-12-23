@@ -1,2 +1,3 @@
-# Config-Klipper-Prusa
-Configuracion para mi impresora Prusa JP con placa mks gen lv2.2 actualizada dia 23/12/24
+# Config-Klipper-Anet-A8
+Configuracion para mi impresora Anet A8 2017 con placa de fabrica actualizada dia 23/12/24
+BLTOUCH incorporado fuera de serie
